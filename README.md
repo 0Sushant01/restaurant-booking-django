@@ -24,8 +24,8 @@ This is a Django-based full stack project developed as part of the **Meta Back-E
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/littlelemon-booking.git
-cd littlelemon-booking
+git clone https://github.com/your-username/restaurant-booking-django
+cd restaurant-booking-django
 pipenv install
 pipenv shell
 python manage.py makemigrations
